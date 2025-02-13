@@ -5,3 +5,4 @@ dist/
 *.pyc
 node_modules/
 build/
+.pytest_cache/
