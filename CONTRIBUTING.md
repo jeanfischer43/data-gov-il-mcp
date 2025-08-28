@@ -10,3 +10,4 @@ Notes and usage details for data-gov-il-mcp.
 - add a note about the defaults
 - fix a small wording issue
 - add a note about the defaults
+- link the usage section
