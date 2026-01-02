@@ -1,6 +1,6 @@
 {
   "name": "data-gov-il-mcp",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Advanced MCP server for seamless access to Israeli Government Open Data",
   "main": "src/index.ts",
   "scripts": {
